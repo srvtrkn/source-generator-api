@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/Core/">
+    <Project Path="Core/Application/Application.csproj" />
+    <Project Path="Core/Domain/Domain.csproj" />
+    <Project Path="Core/SourceGenerator/SourceGenerator.csproj" Id="909f7f7f-1206-4993-9ace-0bc96a9c7397" />
+  </Folder>
+  <Folder Name="/Infrastructure/">
+    <Project Path="Infrastructure/Infrastructure/Infrastructure.csproj" />
+    <Project Path="Infrastructure/Persistence/Persistence.csproj" />
+  </Folder>
+  <Project Path="Api/Api.csproj" Id="423ca10c-aea1-415e-b71f-a6ab04696ad8" />
+</Solution>

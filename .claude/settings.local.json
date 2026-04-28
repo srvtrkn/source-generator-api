@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dotnet build *)",
+      "Bash(grep -A2 \"Analyzer$\")",
+      "Bash(pkill -f \"dotnet run\")",
+      "Bash(pkill -f \"Api.dll\")"
+    ]
+  }
+}
